@@ -246,3 +246,5 @@ class Gede(object):
 				if a[1] == Bandung Station:
 						return i
 				i=i+1
+				
+				i
